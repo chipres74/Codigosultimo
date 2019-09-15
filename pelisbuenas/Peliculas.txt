@@ -1,0 +1,13 @@
+Inicio
+Pedir cual es el costo de la primera pelicula
+Pedir cual es el costo de la segunda pelicula
+Pedir cual es el costo de la tercera pelicula
+Si primera pelicula es mayor que la segunda y la primera pelicula es mayor que la segunda  pelicula
+Entonces
+Realizar la suma del costo de la segunda pelicula mas la tercera pelicula
+SiNo segunda pelicula es mayor que la primera pelicula y la segunda pelicula es mayor que la tercera pelicula
+entonces
+Realizar la suma del costo de la primera pelicula y la tercera pelicula
+SiNo
+Realizar la operacion de sumar la primera pelicula mas la segunda pelicula
+Fin
